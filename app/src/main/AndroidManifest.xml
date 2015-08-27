@@ -20,6 +20,7 @@
             android:name=".Bacon"
             android:label="@string/title_activity_bacon" >
         </activity>
+        <service android:name=".BuckysIntentService" />
     </application>
 
 </manifest>
